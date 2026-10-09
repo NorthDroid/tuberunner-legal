@@ -1,4 +1,4 @@
-# Tube Runner legal pages
+# Tube Runner 3D legal pages
 
 Privacy policy: https://northdroid.github.io/tuberunner-legal/privacy/
 
